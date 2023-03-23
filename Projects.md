@@ -11,6 +11,7 @@ Here are some of the projects I have worked on in freecodecamp and developing my
 <p align="center">
     <img
         alt="Survey Form"
+        href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form"
         src=url(https://cdn.pixabay.com/photo/2016/11/05/08/22/matrix-1799659_960_720.jpg);
         width="600"
     />
@@ -30,16 +31,16 @@ Here are some of the projects I have worked on in freecodecamp and developing my
     />
 </p>
 
-* <u>About</u>: This is my Tribute Page project from freecodecamp. Here I shared my love and enjoyment for Calvin and Hobbes and made a tribute to the author of Calvin and Hobbes, Bill Watterson. This gave me an opportunity to further my skills in html and css.styles while showing my appreciation for a comic that I've grown to love.
+* <u>About</u>: This is my Tribute Page project from freecodecamp. Here I shared my love and enjoyment for Calvin and Hobbes and made a tribute to the author of Calvin and Hobbes, Bill Watterson. This gave me an opportunity to further my skills in html and css.styles while showing my appreciation for a comic that I've grown up with.
 
 * * *
 
-## BoardhouseTS
+## Technical Document
 <p align="center">
-    <a href="https://jjwall.github.io/BoardhouseTS/">
+    <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page">
         <img
-            alt="BoardhouseTS"
-            src="./assets/images/boardhouse_logo_med.png"
+            alt="Technical Document"
+            src="https://content.artofmanliness.com/uploads/2013/01/Testosterone-21.jpg"
             width="800"
         />
     </a>
