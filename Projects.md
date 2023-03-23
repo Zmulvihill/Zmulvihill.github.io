@@ -10,7 +10,7 @@ Here are some of the projects I have worked on in freecodecamp and developing my
 ## Survey Form
 <p align="center">
     <img
-        alt="Survey"
+        alt="Survey Form"
         src=url(https://cdn.pixabay.com/photo/2016/11/05/08/22/matrix-1799659_960_720.jpg);
         width="600"
     />
@@ -20,17 +20,17 @@ Here are some of the projects I have worked on in freecodecamp and developing my
 
 * * *
 
-## Exquisite Adventure
+## Tribute Page
 <p align="center">
     <img
-        alt="Exquisite Adventure"
-        src="./assets/images/exq_adv_dark.png"
+        alt="Tribute Page"
+        href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page"
+        src="https://livingenneagram.com/wp-content/uploads/2019/07/ch5.jpeg"
         width="600"
     />
 </p>
 
-* Tech used: Cordova, XCode, TypeScript, Webpack, Babel, Node, Three.js
-* <u>About</u>: This project is written with Boardhouse and uses Cordova to target native mobile platforms. It features an [Exquisite Corpse](https://en.wikipedia.org/wiki/Exquisite_corpse) artistic mode where users can contribute to creating entities that will be seen in various parts of the app. Project goals are to learn more about mobile development and to better understand both the iOS and Android ecosystems.
+* <u>About</u>: This is my Tribute Page project from freecodecamp. Here I shared my love and enjoyment for Calvin and Hobbes and made a tribute to the author of Calvin and Hobbes, Bill Watterson. This gave me an opportunity to further my skills in html and css.styles while showing my appreciation for a comic that I've grown to love.
 
 * * *
 
