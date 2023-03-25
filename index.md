@@ -1,123 +1,66 @@
 ---
 layout: default
 ---
-[Projects](./Projects.html)
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Projects
+ | <b>Projects</b> | 
+* * *
 
-[Link to another page](./another-page.html).
+Here are some of the projects I have worked on in freecodecamp and developing my skills in html, css.styles and javascript.
 
-There should be whitespace between paragraphs.
+## Survey Form
+<p align="center">
+    <img
+        alt="Survey Form"
+        href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form"
+        src="url(https://cdn.pixabay.com/photo/2016/11/05/08/22/matrix-1799659_960_720.jpg)"
+        width="600"
+    />
+</p>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+* <u>About</u>: This was my first html and css.styles project in freecodecamp and showed me the ropes for both. This project opened the door for me learning html and css.styles and showed me how I can personalize something as simple as a survey and add my own touches to it.
 
 * * *
 
-### Here is an unordered list:
+## Tribute Page
+<p align="center">
+    <img
+        alt="Tribute Page"
+        href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page"
+        src="https://livingenneagram.com/wp-content/uploads/2019/07/ch5.jpeg"
+        width="600"
+    />
+</p>
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+* <u>About</u>: This is my Tribute Page project from freecodecamp. Here I shared my love and enjoyment for Calvin and Hobbes and made a tribute to the author of Calvin and Hobbes, Bill Watterson. This gave me an opportunity to further my skills in html and css.styles while showing my appreciation for a comic that I've grown up with.
 
-### And an ordered list:
+* * *
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+## Technical Document
+<p align="center">
+    <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page">
+        <img
+            alt="Technical Document"
+            src="https://content.artofmanliness.com/uploads/2013/01/Testosterone-21.jpg"
+            width="800"
+        />
+    </a>
+</p>
 
-### And a nested list:
+* <u>About</u>: This is the Technical Document project from freecodecamp. I filled the page with information about testosterone and how to maintain and increase one's naturally. This project increased my skills on html and css.styles and gave me freedom to show my knowledge on another topic I enjoy which is health and wellness.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+* * *
 
-### Small image
+## Product Landing Page
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+<p align="center">
+    <img
+    href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page"
+        alt="Product Landing Page"
+        src="https://www.advantagearms.com/mm5/graphics/00000001/AdvantageArms-Logo_193x83.jpg"
+        width="800"
+    />
+</p>
 
-### Large image
+* <u>About</u>: This is a Product Landing Page from freedcodecamp. With this project, I was tasked to create a landing page for a product. I opted to go with a product that I know and use myself and added my own twist to it. In working on this project it increased my knowledge and skill with html and css.styles.
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+* * *
