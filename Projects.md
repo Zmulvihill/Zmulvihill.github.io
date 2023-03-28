@@ -12,7 +12,7 @@ Here are some of the projects I have worked on in freecodecamp and developing my
     <img
         alt="Survey Form"
         href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form"
-        src="url(https://cdn.pixabay.com/photo/2016/11/05/08/22/matrix-1799659_960_720.jpg)"
+        src="./Images/matrix.jpg"
         width="600"
     />
 </p>
@@ -26,7 +26,7 @@ Here are some of the projects I have worked on in freecodecamp and developing my
     <img
         alt="Tribute Page"
         href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page"
-        src="https://livingenneagram.com/wp-content/uploads/2019/07/ch5.jpeg"
+        src="./Images/bill-watterson-cartoon.jpeg"
         width="600"
     />
 </p>
