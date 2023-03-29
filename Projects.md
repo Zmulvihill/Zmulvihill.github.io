@@ -52,7 +52,7 @@ Here are some of the projects I have worked on in freecodecamp and developing my
 <p align="center">
     <img
         alt="Product Landing Page"
-        src="https://www.advantagearms.com/mm5/graphics/00000001/AdvantageArms-Logo_193x83.jpg"
+        src="./Images/AdArmsLogo.jpg"
         width="800"
     />
 </p>
