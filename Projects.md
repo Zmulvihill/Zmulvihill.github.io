@@ -11,7 +11,6 @@ Here are some of the projects I have worked on in freecodecamp and developing my
 <p align="center">
     <img
         alt="Survey Form"
-        href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form"
         src="./Images/matrix.jpg"
         width="600"
     />
@@ -25,7 +24,6 @@ Here are some of the projects I have worked on in freecodecamp and developing my
 <p align="center">
     <img
         alt="Tribute Page"
-        href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page"
         src="./Images/bill-watterson-cartoon.jpeg"
         width="600"
     />
@@ -37,10 +35,9 @@ Here are some of the projects I have worked on in freecodecamp and developing my
 
 ## Technical Document
 <p align="center">
-    <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page">
         <img
             alt="Technical Document"
-            src="https://content.artofmanliness.com/uploads/2013/01/Testosterone-21.jpg"
+            src="./Images/Testosterone-1.jpg"
             width="800"
         />
     </a>
@@ -54,7 +51,6 @@ Here are some of the projects I have worked on in freecodecamp and developing my
 
 <p align="center">
     <img
-    href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page"
         alt="Product Landing Page"
         src="https://www.advantagearms.com/mm5/graphics/00000001/AdvantageArms-Logo_193x83.jpg"
         width="800"
