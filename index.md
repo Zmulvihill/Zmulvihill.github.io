@@ -25,6 +25,7 @@ Here are some of the projects I have worked on in freecodecamp and developing my
     <img
         alt="Tribute Page"
         src="./Images/bill-watterson-cartoon.jpeg"
+        href="https://github.com/Zmulvihill/Tribute-Page-Certification-Project"
         width="600"
     />
 </p>
