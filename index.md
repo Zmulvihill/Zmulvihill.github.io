@@ -53,6 +53,7 @@ Here are some of the projects I have worked on in freecodecamp and developing my
     <img
         alt="Product Landing Page"
         src="./Images/AdArmsLogo.jpg"
+        href="https://github.com/Zmulvihill/Product-landing-page-certification-project"
         width="800"
     />
 </p>
