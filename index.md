@@ -2,7 +2,6 @@
 layout: default
 ---
 # Projects
- | <b>Projects</b> | 
 * * *
 
 Here are some of the projects I have worked on in freecodecamp and developing my skills in html, css.styles and javascript.
@@ -12,12 +11,12 @@ Here are some of the projects I have worked on in freecodecamp and developing my
     <img
         alt="Survey Form"
         src="./Images/matrix.jpg"
-        href="https://github.com/Zmulvihill/Survery-Form-Certification-project"
         width="600"
     />
 </p>
 
 * <u>About</u>: This was my first html and css.styles project in freecodecamp and showed me the ropes for both. This project opened the door for me learning html and css.styles and showed me how I can personalize something as simple as a survey and add my own touches to it.
+*  href="https://github.com/Zmulvihill/Survery-Form-Certification-project"
 
 * * *
 
