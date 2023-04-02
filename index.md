@@ -12,6 +12,7 @@ Here are some of the projects I have worked on in freecodecamp and developing my
     <img
         alt="Survey Form"
         src="./Images/matrix.jpg"
+        href="https://github.com/Zmulvihill/Survery-Form-Certification-project"
         width="600"
     />
 </p>
