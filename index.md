@@ -16,7 +16,7 @@ Here are some of the projects I have worked on in freecodecamp and developing my
 </p>
 
 * <u>About</u>: This was my first html and css.styles project in freecodecamp and showed me the ropes for both. This project opened the door for me learning html and css.styles and showed me how I can personalize something as simple as a survey and add my own touches to it.
-*  [Survey Form] ("https://github.com/Zmulvihill/Survery-Form-Certification-project")
+*  [Survey Form]("https://github.com/Zmulvihill/Survery-Form-Certification-project")
 
 * * *
 
@@ -30,7 +30,7 @@ Here are some of the projects I have worked on in freecodecamp and developing my
 </p>
 
 * <u>About</u>: This is my Tribute Page project from freecodecamp. Here I shared my love and enjoyment for Calvin and Hobbes and made a tribute to the author of Calvin and Hobbes, Bill Watterson. This gave me an opportunity to further my skills in html and css.styles while showing my appreciation for a comic that I've grown up with.
-* [Tribute Page] ("https://github.com/Zmulvihill/Tribute-Page-Certification-Project")
+* [Tribute Page]("https://github.com/Zmulvihill/Tribute-Page-Certification-Project")
 
 * * *
 
